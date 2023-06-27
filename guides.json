@@ -1,0 +1,79 @@
+[
+  { "name": "Procedimientos"                     , "repo": "creativos-digitales/curso-Creativos"
+  , "exercises": 
+    [ 
+      
+      { "id": "4", "name": "El ratón hambriento 1"
+      , "path": "Unidades/4. El ratón hambriento"
+      }
+      ,
+      { "id": "5", "name": "El ratón hambriento 2"
+      , "path": "Unidades/5. El ratón hambriento"
+      }
+      ,
+      { "id": "6", "name": "El ratón hambriento 3"
+      , "path": "Unidades/6. El ratón hambriento"
+      }
+      ,
+      { "id": "7", "name": "Buscando la salida"
+      , "path": "Unidades/7. Buscando la salida"
+      }
+      ,
+      { "id": "8", "name": "Buggi el Erizo"
+      , "path": "Unidades/16. Buggi el Erizo"
+      }
+    
+    ]
+  },{ "name": "Condicionales"                     , "repo": "creativos-digitales/curso-Creativos"
+  , "exercises": 
+    [ 
+      { "id": "2", "name": "Reciclando ando"
+      , "path": "Unidades/2.Reciclando ando"
+      }
+      ,
+      { "id": "3", "name": "Ciudad más limpia"
+      , "path": "Unidades/3.Ciudad más limpia"
+      }
+      ,
+      { "id": "1", "name": "Más y más leña" 
+      , "path": "Unidades/1.Más y más leña"
+      }
+      ,
+      { "id": "8", "name": "Sapo caza moscas" 
+      , "path": "Unidades/8. Sapo caza moscas"
+      }
+      ,
+      { "id": "9", "name": "Sapo caza moscas 2" 
+      , "path": "Unidades/9. Sapo caza moscas 2"
+      }
+      ,
+      { "id": "10", "name": "Desenterrando el tesoro canino" 
+      , "path": "Unidades/10. Desenterrando el tesoro canino"
+      }
+      ,
+      { "id": "11", "name": "La abeja del mes" 
+      , "path": "Unidades/11. La abeja del mes"
+      }
+      ,
+      { "id": "12", "name": "Calle para todos" 
+      , "path": "Unidades/12. Calle para todos"
+      }
+      ,
+      { "id": "13", "name": "Excursión Marciana" 
+      , "path": "Unidades/13. Excursión Marciana"
+      }
+      ,
+      { "id": "14", "name": "Preciosa Excavación" 
+      , "path": "Unidades/14. Preciosa Excavación"
+      }
+      ,
+      { "id": "17", "name": "Repartija de Caramelos" 
+      , "path": "Unidades/17. Repartija de Caramelos"
+      }
+      
+      
+      
+    ]
+  }
+
+]

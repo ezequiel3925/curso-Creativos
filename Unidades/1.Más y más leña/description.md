@@ -1,0 +1,2 @@
+# Más y más leña
+Carlos es un leñador de un pueblito muy frío del Sur. Gracias a la leña que consigue la gente del pueblo no pasa frío. Carlos salió a buscar nuevos árboles para talar y tendremos que ayudarlo a encontrarlos, para ello utilizaremos condicionales. A su vez, como es un leñador muy responsable, por cada árbol que tale plantará 2 más. Ayudemos a Carlos a conseguir la leña para que lleve al pueblo.
